@@ -1,4 +1,4 @@
-# Jekyll Tipue Search test test
+# Jekyll Tipue Search test V2
 
 Full-text search in Jekyll with [Tipue Search](https://github.com/Tipue/Tipue-Search). No plugin necessary. Fully compatible with Github Pages.
 
